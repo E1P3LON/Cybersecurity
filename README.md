@@ -170,12 +170,12 @@ curl http://localhost:8080/api/v1/health
 
 | Servicio | URL | Credenciales |
 |----------|-----|--------------|
-| SOC Dashboard | http://localhost:3000 | admin/admin123 |
-| Admin Panel | http://localhost:3001 | admin/admin123 |
-| Executive Dashboard | http://localhost:3002 | executive/exec123 |
-| API Gateway | http://localhost:8080 | Bearer Token |
-| Grafana Monitoring | http://localhost:4000 | admin/admin |
-| Elasticsearch | http://localhost:9200 | elastic/elastic123 |
+| SOC Dashboard | http://localhost:3000 |
+| Admin Panel | http://localhost:3001 |
+| Executive Dashboard | http://localhost:3002 |
+| API Gateway | http://localhost:8080 |
+| Grafana Monitoring | http://localhost:4000 |
+| Elasticsearch | http://localhost:9200 |
 
 ---
 
